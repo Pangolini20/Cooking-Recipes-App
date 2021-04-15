@@ -1,0 +1,46 @@
+body{
+    background: url("/resources/backgr5.jpg");
+    background-repeat: no-repeat;
+
+    justify-content: center;
+    align-items: center;
+}
+
+#registerform{
+    width: 400px;
+    background-color: white;
+    padding: 30px;
+    color: black;
+    font-family: serif;
+    border-radius: 20px;
+    align-content: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+#registerform h1{
+    margin: 0;
+    font-size: 30;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+#txtbox{
+    border: 1px solid #03A9F4;
+    background: white;
+    font-size: 20;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+
+#subbutton{
+    width: 100%;
+    background: #03A9F4;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 4px;
+}

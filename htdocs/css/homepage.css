@@ -1,0 +1,40 @@
+#left_panel
+{
+	float: left;
+	width:600px;
+    height: 600px;
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+    border-radius: 30px;
+}
+
+#parent_div{
+	padding-top: 30px;
+	display: flex;
+ 	justify-content: center;
+}
+
+body{
+	background: url("/resources/homepage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+center{
+	padding-top: 200px;
+}
+
+center button{
+	margin-top: 10px;
+	width: 15%;
+    background: #1C6EA4;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 10px   ;
+    margin-bottom: 10px   ;
+}

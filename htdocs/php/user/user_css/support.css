@@ -1,0 +1,38 @@
+body{
+	background:url("../../../resources/ticket.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#content_table{
+	width: 1100px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    margin-top: 20px;
+    border-radius: 30px;
+
+}
+
+button
+{
+	width: 15%;
+    background: #1C6EA4;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 10px   ;
+    margin-bottom: 10px   ;
+}
+
+
+
+select{
+    width: 15%;
+}
+
+#background{
+
+}

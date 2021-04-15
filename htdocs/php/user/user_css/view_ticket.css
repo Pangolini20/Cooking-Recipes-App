@@ -1,0 +1,48 @@
+body{
+	background:url("../../../resources/ticket.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#page_cnt
+{
+	background:white;
+	width: 800px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+#written
+{
+	float: right;
+} 
+
+textarea{
+	resize: none;
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+}
+
+p
+{
+	resize: none;
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#back
+{
+	width: 15%;
+	background: #1C6EA4;
+	border: 1px solid black;
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	border-radius: 4px;
+}

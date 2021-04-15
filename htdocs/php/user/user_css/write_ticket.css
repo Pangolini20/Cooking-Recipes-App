@@ -1,0 +1,71 @@
+body{
+	background:url("../../../resources/ticket.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+#formular{
+	width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+select{
+	border: 1px solid black;
+    background: white;
+    font-size: 14px;
+    width: 26%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+
+}
+
+#txtbox{
+	width: 97%;
+	margin-bottom: 10px;
+    padding: 10px
+}
+
+#cancel{
+    width: 15%;
+    background: #1C6EA4;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 4px;
+}
+
+#formular h1{
+	font: sans-serif;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+#title{
+	border: 1px solid black;
+    background: white;
+    font-size: 14px;
+    width: 97%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+
+#button{
+	
+	width: 100%;
+    background: #03A9F4;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 4px;
+}

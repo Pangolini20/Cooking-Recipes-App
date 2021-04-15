@@ -1,0 +1,15 @@
+.slide{
+    width:400px;
+    height: 600px;
+    background: url("/resources/slide/1.jpg");
+    background-repeat: no-repeat;
+    animation: slide 20s infinite;
+    float: right
+    
+}
+@keyframes slide {
+    25%{background: url("/resources/slide/2.jpg");}
+    50%{background: url("/resources/slide/3.jpg");}
+    75%{background: url("/resources/slide/4.jpg");}
+    100%{background: url("/resources/slide/1.jpg");}
+}

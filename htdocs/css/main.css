@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.header{
+    font-family: sans-serif;
+    font-size: 20px;
+    background: #E9C9B1;
+    height: 100px;
+    padding: 0 20px;
+}
+
+#language{
+    float: left;
+    line-height: 100px;
+    color: black;
+}
+
+#language a{
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: 0.4s;
+}
+
+#language a:hover{
+    color: #3498db;
+}
+
+.menu{
+    line-height: 100px;
+    float: right;
+}
+.menu a{
+
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: 0.4s;
+}
+.menu a:hover{
+    color: #3498db;
+}
